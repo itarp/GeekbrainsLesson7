@@ -1,0 +1,10 @@
+---------- Employee data --------------
+ID number: 2
+Name: Jon Smith
+Age: 21
+Position: Developer
+Addres: Russia, Moscow
+Email: JonSmith@mail
+Phone: +7(012)345-67-89
+Active: Yes
+---------------------------------------
